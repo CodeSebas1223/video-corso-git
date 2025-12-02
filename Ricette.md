@@ -1,5 +1,6 @@
 # Ricette di Jurel
 
 * Spaghetti aglio, olio e peperoncino
-* Pennette alla Carbonara
 * Risotto ai funghi
+* Pennette alla carbonara
+* Minestrone di verdure
