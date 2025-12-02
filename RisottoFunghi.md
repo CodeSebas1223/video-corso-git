@@ -6,7 +6,6 @@ Un buon piatto autunnale.
 # Risotto ai Funghi
 
 Un buon piatto autunnale
->>>>>>> carbonara
 
 ## Ingredienti
 
@@ -15,5 +14,4 @@ Un buon piatto autunnale
 * funghi
 * scalogno 
 * funghi 
->>>>>>> carbonara
 * brodo
